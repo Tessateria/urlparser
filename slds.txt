@@ -1,0 +1,12 @@
+com
+co
+org
+in
+us
+gov
+mil
+int
+edu
+net
+biz
+info
